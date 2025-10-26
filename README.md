@@ -1,33 +1,45 @@
-# metinalperenucan
-Who i am?
+# metinalperenucan  
+**Who am I?**
 
-# 👋 Hi, I'm Metin Alperen Uçan
+## 👋 Hi, I'm Metin Alperen Uçan
 
-🎓 2nd-year Computer Engineering student @ UTAA  
-💻 Passionate about Linux, Python, Git & backend basics  
-🔧 Hands-on with PyQt5, OpenCV, Arduino  
-📚 Learning actively via BTK Academy & self-projects  
-🎯 Aiming for internship and R&D roles in top tech companies  
+🎓 3rd-year Computer Engineering student @ UTAA (GPA: 3.84)  
+💡 Passionate about problem-solving, tech innovation & continuous learning  
+💻 Experienced in backend, GUI, game dev & embedded systems  
+🧪 Building with Spring Boot, React, PyQt5, OpenCV, Unity & Arduino  
+📚 Learning through real-world projects, BTK Academy & self-study  
+🎯 Focused on R&D and internship opportunities in top tech companies  
 
-## 🧠 Current Focus
+---
+
+## 🧠 Current Focus  
 - Git & CLI mastery  
-- Networking (basic & advanced)  
-- Kali Linux & security tools  
+- Networking (basic to advanced)  
+- Kali Linux & cybersecurity tools  
 - Node.js & backend development  
-- Communication & presentation skills
+- Communication & presentation skills  
 
-## 📂 Featured Projects
-- `hook-rider` – A 2D Unity platformer game  
-- `pyqt-device-comm` – GUI for hardware communication  
-- `excel-report-bot` – Auto-generate Excel reports from device data
+---
 
-## 📈 Goals for 2025
-- Complete BTK internship (July–August)  
-- Build public portfolio  
-- Contribute to open source  
-- Sharpen my presentation skills
+## 📂 Featured Projects  
+- `hook-rider` – Physics-based 2D platformer built in Unity  
+- `pyqt-device-comm` – GUI for hardware communication & control  
+- `excel-report-bot` – Automated Excel reporting from device data  
+- `BTK_Restaurant_APP` – Full-stack restaurant system (Spring Boot + React + Flutter)  
+- `UTAA Chess Club Website` – Online chess platform with tournament tools  
 
-## 📫 Contact
+---
+
+## 📈 Recent Milestones  
+- ✅ Completed BTK internship (July–August 2025)  
+- 🚀 Building and publishing a professional portfolio  
+- 🤝 Contributing to open source projects  
+- 🎤 Improving public speaking & presentation skills  
+
+---
+
+## 📫 Contact  
 - 📧 metinalperenucan@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/metinalperenucan/)  
-- 💻 [GitHub](https://github.com/metinalperen)
+- 💻 [GitHub](https://github.com/metinalperen)  
+- 🌐 [Portfolio](https://metinalperenucan.vercel.app)
