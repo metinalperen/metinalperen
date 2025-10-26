@@ -1,16 +1,33 @@
-## Hi there 👋
+# metinalperenucan
+Who i am?
 
-<!--
-**metinalperen/metinalperen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Metin Alperen Uçan
 
-Here are some ideas to get you started:
+🎓 2nd-year Computer Engineering student @ UTAA  
+💻 Passionate about Linux, Python, Git & backend basics  
+🔧 Hands-on with PyQt5, OpenCV, Arduino  
+📚 Learning actively via BTK Academy & self-projects  
+🎯 Aiming for internship and R&D roles in top tech companies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Focus
+- Git & CLI mastery  
+- Networking (basic & advanced)  
+- Kali Linux & security tools  
+- Node.js & backend development  
+- Communication & presentation skills
+
+## 📂 Featured Projects
+- `hook-rider` – A 2D Unity platformer game  
+- `pyqt-device-comm` – GUI for hardware communication  
+- `excel-report-bot` – Auto-generate Excel reports from device data
+
+## 📈 Goals for 2025
+- Complete BTK internship (July–August)  
+- Build public portfolio  
+- Contribute to open source  
+- Sharpen my presentation skills
+
+## 📫 Contact
+- 📧 metinalperenucan@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/metinalperenucan/)  
+- 💻 [GitHub](https://github.com/metinalperen)
